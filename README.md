@@ -35,7 +35,7 @@
    
 4. **Enter a country name and fetch its details.**
 
-# API Used :
+# 🌐 API Used :
 
 This project fetches data from the REST Countries API, which provides information about countries worldwide.
 
